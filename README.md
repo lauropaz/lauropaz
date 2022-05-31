@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @lauropaz
+- 👀 I’m interested in Development
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on everything
+- 📫 How to reach me lauropaz.dev
