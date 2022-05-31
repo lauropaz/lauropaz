@@ -1,5 +1,11 @@
 - 👋 Hi, I’m @lauropaz
-- 👀 I’m interested in Development
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in development
+- 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on everything
 - 📫 How to reach me lauropaz.dev
+
+- 👋 Ola, eu sou o @lauropaz
+- 👀 Estou interessado em desenvolver.
+- 🌱 Estou sempre aprendendo java. 
+- 💞️ Eu procuro ajudar em tudo.
+- 📫 pode me encontar em lauropaz.dev
